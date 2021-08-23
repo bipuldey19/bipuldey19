@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @bipuldey19
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Designing
-
-<!---
-bipuldey19/bipuldey19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Metrics](https://metrics.lecoq.io/bipuldey19?template=classic&introduction=1&achievements=1&tweets=1&notable=1&introduction.title=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.repositories=false&tweets.attachments=false&tweets.limit=2&tweets.user=BipulDe89294177&config.timezone=Asia%2FDhaka)
