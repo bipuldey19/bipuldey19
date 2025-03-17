@@ -12,9 +12,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,python,django,flask,react,nodejs,javascript,html,css,bootstrap,tailwind,illustrator,photoshop,figma" />
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,python,react,nodejs,javascript,html,css,bootstrap,tailwind,illustrator,photoshop,figma" />
   </a>
 </p>
 
