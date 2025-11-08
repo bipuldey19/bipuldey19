@@ -9,7 +9,7 @@
 🌱  Currently learning **Next.js**, **Hugging Face APIs**, and **interactive GIS visualization** to expand my full-stack and spatial data skills.\
 ✍️  In my free time, I enjoy **UI/UX design**, **blog writing**, and **3D modeling**.\
 💬  I’m always open to collaboration, research, and innovative tech projects that bridge **data, design, and urban insight**.\
-✉️  You can reach me at **[bipuldey19@gmail.com](mailto:bipuldey19@gmail.com)** — I’ll try to respond as soon as I can!\
+✉️  You can reach me at **[bipuldey19@gmail.com](mailto:bipuldey19@gmail.com)** — I’ll try to respond as soon as I can!
 
 
 ### 🛠 &nbsp;Tech Stack
