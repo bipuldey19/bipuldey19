@@ -29,14 +29,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bipuldey19&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.bippuldey.com"><img src="https://img.shields.io/badge/-bipuldey.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bipul-dey-782527201"><img src="https://img.shields.io/badge/Bipul%20Dey-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:bipuldey19@gmail.com"><img src="https://img.shields.io/badge/-bipuldey19@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/bipul_dey19"><img src="https://img.shields.io/badge/-@bipuldey19-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/bipuldey19"><img src="https://img.shields.io/badge/-@bipuldey19-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://t.me/bipuldey19"><img src="https://img.shields.io/badge/-@bipuldey19-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
-</p>
